@@ -1,0 +1,608 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img-nav{
+    width: 5%;
+}
+
+.bg-1{
+    background-color: #f7f0f4;
+    height: 980px;
+  
+}
+.img-1{
+    width: 35%;
+    position: absolute;
+    margin-left: 5rem;
+}
+.img-2{
+    width: 70%;
+    margin-top: 4rem;
+    margin-left: 21rem;
+}
+nav ul li img{
+    width: 13%;
+}
+.bg-4{
+    background-color: #f7f0f4;
+}
+.imgb-1{
+    height: 100%;
+}
+
+.banner-text{
+    margin-top: 20rem;
+}
+.banner-text h2{
+    font-size: 5rem ;
+}
+.banner-text h3{
+    font-size: 4rem;
+}
+.banner-text button{
+    font-size: 3rem;
+}
+.ability{
+    font-size: 2rem;
+
+}
+
+.banner-btn{
+    color: white;
+    background-color: #2fa35b;
+    border: none;
+    width: 30%;
+    height: 3%;
+    font-size: 1.4rem;
+}
+
+.bg-2{
+    background-color: #78227c;
+   font-size: 5rem;
+   margin-bottom: 1rem;
+   border: 2px solid;
+   border-radius: 5px;
+}
+
+
+.h-pur{
+    color: #78227c;
+    font-weight: bold;
+    font-size: 6rem;
+}
+
+
+ul li{
+    list-style: none;
+}
+
+ul li{
+    font-weight: bold;
+    
+}
+.text1{
+    font-weight: bold;
+    position: top;
+    font-size: 4rem;
+}
+.text1-2{
+    font-size: 2rem;
+}
+
+.img-3{
+   width: 80%;
+}
+
+.list-1{
+    margin-left: 10rem;
+    font-size: 1.3rem;
+}
+.tick{
+    background-image: url(../images/tick.png);
+    background-repeat: no-repeat;
+    background-position: 1px;
+}
+.param{
+    transform: translate(0px, -25px);
+    font-size: 3rem;
+    padding: 0rem 2rem;
+}
+.vid-head{
+    font-size: 4rem;
+}
+
+.logos img{
+    width: 40%;
+}
+
+.logos p{
+    font-weight: 800;
+}
+
+
+.bg-3{
+    background-color: #f7f0f4;
+height: 500px;
+
+}
+
+.img-5{
+   width: 25%;
+
+}
+
+.text-3{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    transform: translateY(+20%);
+
+}
+
+.text-3 h5{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+
+.transport img{
+  width: 30%;
+}
+
+.transport p{
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    
+}
+ 
+.icona img{
+    width: 35%;
+}
+
+footer{
+    background-color: #323232;
+}
+
+footer ul li img{
+    width: 15%;
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: -14.5rem;
+}
+
+.text-form h3{
+    font-size: 3rem;
+}
+.text-form h4{
+    font-weight: bold;
+    font-size: 4rem;
+}
+.form-place{
+    background-color: #EFF7F9;  
+}
+.formbtn{
+    border: none;
+    background-color: #2fa35b;
+    font-size: 3rem;
+}
+video{
+    width: 60%;
+    margin-top: -8rem;
+    
+}
+nav ul li{
+    display: inline-block;
+}
+
+.item-1{
+    transform: translate(0%, -39%);
+    margin-right: -8rem;
+}
+.item-2{
+    margin-top: 2rem;
+}
+
+.page{
+    overflow: hidden;
+}
+.bg-5{
+    background-color: #f7f0f4;
+  height: 500px;
+}
+.vid-btn{
+    font-size: 3rem;
+}
+.box{
+    width: 50%;
+    border: solid 1px #fff;
+    border-radius: 5px;
+    box-shadow: 5px 5px #e8e8e8;
+    padding: 0rem;
+}
+
+.form-control{
+    font-size: 2rem;
+}
+.nav-bg{
+    background-image: url(../images/phone1.png);
+    background-repeat: no-repeat;
+    background-size: 2%;
+background-position-x: +45%;
+background-position-y: +66%;
+}
+
+
+@media screen and (max-width: 1440px){
+   .form-1{
+       margin-left: 10rem;
+   }
+    .nav-bg{
+        background-size: 4%;
+        background-position-x: +40%;
+        
+    }
+    .formbtn{
+        font-size: 1.5rem;
+    }
+    .form-control{
+        font-size: 1rem;
+    }
+    .text-form h4{
+        font-size: 2rem;
+    }
+    .text-form h3{
+        font-size: 1.8rem;
+    }
+    .text-3{
+        transform: translateY(+40%);
+    }
+    .text-3 h5{
+        font-size: 1.3rem;
+    }
+    .bg-3{
+        height: 200px;
+    }
+    .bg-5{
+        height: 360px;
+        margin-top: -3rem;
+    }
+    .vid-btn{
+        font-size: 1.4rem;
+    }
+    .vid-head{
+        font-size: 1.5rem;
+        padding-top: 2rem;
+        padding-left: 10rem;
+        padding-right: 11rem;
+        font-weight: bold;
+    }
+    .img-3{
+        width: 100%;
+    }
+    .list-1{
+        margin-left: 0rem;
+    }
+    .param{
+        font-size: 1.3rem;
+        margin-left: 130px;
+    }
+    .text1-2{
+        font-size: 1rem;
+    }
+    .text1{
+        font-size: 2rem;
+    }
+    .bg-2{
+        font-size: 2rem;
+    }
+    .h-pur{
+        font-size: 4rem;
+    }
+    .ability{
+        font-size: 1.3rem;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    .banner-text button{
+        font-size: 1.4rem;
+        margin-top: 1.5rem;
+        border-radius: 7px;
+    }
+    .banner-text{
+        margin-top: 5rem;
+    }
+    .banner-text h2{
+        font-size: 1.7rem;
+        padding: 0rem 6rem;
+    }
+    .banner-text h3{
+        font-size: 1.5rem;
+    }
+    .img-2{
+        margin-left: 16rem;
+    }
+    .bg-1{
+        height: 515px;
+        margin-bottom: 3rem;
+    }
+footer{
+    padding: 0.1rem;
+}
+footer img{
+    width: 4%;
+}
+}
+@media screen and (max-width: 1024px){
+    .text-form h3{
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    .param{
+        font-size: 1.1rem;
+    }
+    .img-1{
+        width: 39%;
+    }
+    .bg-1{
+        height: 410px;
+    }
+    .banner-text h2{
+        padding: 0rem 0rem;
+    }
+    .img-1{
+        margin-left: 2rem;
+    }
+    .img-2{
+        margin-left: 11rem;
+    }
+    .box{
+        width: 80%;
+    }
+    .img-3{
+        width: 120%;
+    }
+    .img-5{
+        width: 30%;
+    }
+    .text-3{
+        transform: translateY(+20%);
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .param{
+        margin-left: 50px;
+    }
+    .the-form-input{
+        margin-left: 2.5rem;
+    }
+    .form-2{
+        margin-left: 2.5rem;
+
+    }
+    .form-3{
+        margin-left: 2.5rem;
+    }
+    .param{
+        font-size: 1rem;
+    }
+    .nav-bg{
+        background-size: +6%;
+        background-position: +35%;
+    }
+    .banner-text h2{
+        font-size: 1.65rem;
+    }
+    .banner-text h3{
+        font-size: 1.5rem;
+    }
+    .box{
+        width: 80%;
+    }
+    .img-1{
+        width: 47%;
+        margin-left: 0rem;
+    }
+    .bg-1{
+        height: 382px;
+    }
+    .banner-text{
+        margin-top: 1rem;
+    }
+    .img-2{
+        width: 77%;
+        margin-left: 8rem;
+    }
+    .img-5{
+        width: 40%;
+    }
+   
+       
+    
+
+    .list-1{
+        margin-left: 0rem;
+    }
+    .text-3{
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+    .bg-2{
+        margin: 0rem 0rem;
+    }
+   
+  
+}
+@media screen and (max-width: 768px){
+    video{
+        margin-top: -7rem;
+    }
+    .form-1{
+        margin-left: 0rem;
+    }
+}
+@media screen and (max-width: 414px){
+    .text1{
+        font-size: 1.8rem;
+    }
+        .text-3 h5{
+            font-size: 1.1rem;
+        }
+    .text-form h3{
+        font-size: 1.1rem;
+    }
+    .the-form-input{
+        margin-left: 0rem;
+    }
+    .form-2{
+        margin-left: 0rem;
+    }
+    .form-3{
+        margin-left: 0rem;
+    }
+
+    .list-1{
+        padding-left: 0rem;
+    }
+   
+
+    .item-2{
+        margin-top: 0rem;
+    }
+    .nav-bg{
+        background-size: 10%;
+        background-position-x: 25%;
+        background-position-y: 21%;
+    }
+    .param{
+        padding: 1rem 2rem;
+        margin-left: 0px;
+        padding-right: 0rem;
+    }
+    .tick{
+        background-position: 1px 20px;
+    }
+    .img-1{
+        width: 41%;
+        margin-left: 0rem;
+    }
+    .img-3{
+        display: none;
+    }
+    .banner-text h2{
+        padding: 0rem 0rem;
+    }
+    .param{
+        transform: translate(0px,0px);
+    }
+    video{
+        width: 100%;
+    }
+    .bg-1{
+        margin-bottom: 26rem;
+    }
+    .box{
+        width: 100%;
+    }
+    .vid-head{
+        padding-top: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .img-5{
+        margin-top: 3rem;
+        width: 60%;
+    }
+}
+@media screen and (max-width: 375px){
+    .param{
+        padding: 0.5rem 2rem;
+    }
+    .list-inline-item:not(:last-child){
+        margin-right: -20.5rem;
+    }
+    .tick{
+        background-position: 1px 28px;
+    }
+    .box{
+        width: 100% ;
+    }
+    video{
+        
+        margin-top: -4rem;
+    }
+    .item-1{
+        transform: translate(-51%, +170%);
+    }
+    .img-1{
+        width: 45%;
+    }
+.img-2{
+    width: 69%;
+    margin-left: 8rem;
+}
+    .bg-1{
+        height: 350px;
+        margin-bottom: 21rem;
+    }
+    .banner-text{
+        margin-top: 4rem;
+    }
+    .livariz-logo{
+        margin-top: -42rem;
+        width: 60%;
+        margin-left: 9rem;
+    }
+
+    .img-5{
+        width: 70%;
+        margin-top: 4rem;
+        
+    }
+    .vid-head{
+        font-size: 1.5rem;
+    }
+    .nav-bg{
+        background-size: +15%;
+        background-position-x: +19%;
+    }
+}
+@media screen and (max-width: 360px){
+    .img-2{
+        width: 66%;
+    }
+    .list-inline-item:not(:last-child){
+        margin-right: -20.5rem;
+    }
+    .form-1{
+        margin-left: 0rem;
+    }
+}
+@media screen and (max-width: 320px){
+    .tick{
+        background-position-y: 13px;
+    }
+    .param{
+        padding-right: 0rem;
+    }
+   .livariz-logo{
+       margin-bottom: -50%;
+   }
+    .banner-text{
+        margin-top: 1rem;
+    }
+    .bg-1{
+        height: 309px;
+    }
+    .livariz-logo{
+        margin-left: 5rem;
+    }
+    .img-2{
+        width: 70%;
+        margin-left: 6rem;
+    }
+    .list-1{
+        padding-left: 0rem;
+    }
+}
